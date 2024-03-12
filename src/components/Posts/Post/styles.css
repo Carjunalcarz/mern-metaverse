@@ -1,0 +1,10 @@
+/* styles.css */
+.container1 {
+  color: blue;
+  background-color: lightgray;
+  padding: 10px;
+}
+
+.other {
+  font-weight: bold;
+}
